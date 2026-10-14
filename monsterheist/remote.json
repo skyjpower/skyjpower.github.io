@@ -1,0 +1,5 @@
+{
+  "_comment": "튀어라! 몬스터 원격 수치. params 의 이름은 DT_MHParam 행 이름, 값은 숫자. 비워 두면 게임 기본값. minVersion/maxVersion 으로 적용할 앱 버전(StoreVersion) 범위를 정할 수 있음",
+  "minVersion": 17,
+  "params": {}
+}
